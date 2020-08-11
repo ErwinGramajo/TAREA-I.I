@@ -1,0 +1,81 @@
+		h1{
+			color: pink;
+			text-align: center;
+		}
+
+		h2{
+			color: red;
+			text-align: center;
+			font-family: cursive;
+		}
+
+
+		h3{
+			color: orange;
+			text-align: right;
+		}
+
+		.halo{
+			font-size: 20px;
+			font-weight: italic;
+			font: Cambria;
+			color: lightgreen;
+		}
+
+
+		.rdd2{
+			font-size: 20px;
+			font-weight: bold;
+			font: Arial;
+			color: gold;	
+		}
+
+		.pubg{
+			font-size: 20px;
+			font: Times New Roman;
+			color: #808000;	
+		}
+
+		.rl{
+			font-size: 20px;
+			font: Times;
+			color: #000080;	
+		}
+
+		.gta{
+			font-size: 20px;
+			font:  Courrier New;
+			color: #32CD32;	
+		}
+
+		#XBOX{
+			font-size: 24px;
+			font-weight: bold;
+			background-color: transparent;
+			opacity: 7;
+			color: black;
+		}
+
+		#RG{
+			font-size: 24px;
+			font-weight: bold;
+			background-color: transparent;
+			opacity: 7;
+			color: red;
+		}
+
+		#Bluehole{
+			font-size: 24px;
+			font-weight: bold;
+			background-color: transparent;
+			opacity: 7;
+			color: gold;
+		}
+
+		#Psyonix{
+			font-size: 24px;
+			font-weight: bold;
+			background-color: transparent;
+			opacity: 7;
+			color: blue;
+		}
